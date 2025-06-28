@@ -1,0 +1,1 @@
+import pygame # type: ignore
